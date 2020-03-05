@@ -4,7 +4,7 @@
 
 ### 1.Responsive Design  - EST TIME: 1.5hr
 
-1. [Random Imager[('random-imager.md')
+1. [Random Imager]('random-imager.md')
 2. Follow the instructions in that repo
 
 
