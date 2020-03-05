@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-1. In today's `student_labs` create a `random_imager` directory with the following files: 
+1. Create a `random_imager` directory with the following files: 
 
   - `index.html`
   - `app.js`
