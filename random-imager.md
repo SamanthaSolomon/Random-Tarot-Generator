@@ -62,19 +62,6 @@ const cards = [
 - Use the URL to make a human readable alt attribute. ex: `https://www.trustedtarot.com/img/cards/the-fool.png` to be `The Fool`
 - Make it so that when you click on one of the added images, it will be removed from the page.
 
-## Even Hungrier for More?
-
-We can run any procedure we like with our clicks:
-
-**For your labs:**
-
-1. EXTRA RESEARCH CHALLENGE: Add an input box and a button to your labs. When the button is clicked, grab the value of the text inside the input box, and use that value as an argument in your generateCheckerBoard(NUM) and generatePyramid(NUM) functions.
-
-**From today's lessons:**
-
-1. Construct a horrible digital quilt
-1. Construct a pyramid made from triangles
-1. Make the Virtual Rolodex from the morning lesson if you haven't done so.
 
 ---
 
