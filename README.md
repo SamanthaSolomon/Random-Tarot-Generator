@@ -21,7 +21,8 @@ None assigned at this time
 
 ### 4.  INTERVIEW PRACTICE - EST TIME: 20min
 
-1. Under the MOTIVATION AND VALUES section write your answer to the following interview question: 
-   - **Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?**.
-2. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
-3. Add a link to the following [spreadheet](https://docs.google.com/spreadsheets/u/0/d/1brTSyF1pa1bjWFS5yUrMyizd3sZgvYn5uLet93aZKVg/edit) to your shared google doc.
+
+- Answer the following interview question: 
+    - **Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?**.
+- All answers must be at least a paragraph in length however the more you write the more you have to talk about.
+
