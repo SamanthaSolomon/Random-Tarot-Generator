@@ -4,9 +4,9 @@
 
 ### 1.jQuery  - EST TIME: 1.5hr
 
-1. [Random Imager](./random-imager.md)
-Be sure to check the issues box in the settings tab so we can leave comments
-2. When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
+- [Random Imager](./random-imager.md)
+- Be sure to check the issues box in the settings tab so we can leave comments
+- When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
 
 
 ### 2. Read/Watch The Following - EST TIME: 50min
