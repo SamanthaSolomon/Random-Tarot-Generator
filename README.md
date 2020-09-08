@@ -6,7 +6,7 @@
 
 - [Random Imager](./random-imager.md)
 - Be sure to check the issues box in the settings tab so we can leave comments
-- When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
+- When commpleted submit your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
 
 
 ### 2. Read/Watch The Following - EST TIME: 50min
