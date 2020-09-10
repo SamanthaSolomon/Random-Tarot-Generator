@@ -2,7 +2,7 @@
 
 ## Command Line / Interview Questions
 
-### 1.jQuery  - EST TIME: 1.5hr
+### 1. Main Assignment - EST TIME: 1.5hr
 
 - [Random Imager](./random-imager.md)
 - Be sure to check the issues box in the settings tab so we can leave comments
