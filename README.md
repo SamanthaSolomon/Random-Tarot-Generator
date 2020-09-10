@@ -12,7 +12,7 @@
 - When commpleted submit the code you wrote for homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
 
 
-### 2. Read/Watch The Following - EST TIME: 50min
+### 2. Read/Watch The Following (bonus if you have time)- EST TIME: 50min
  - Do: [FreeCodeCamp: Complete the jQuery Section](https://learn.freecodecamp.org/front-end-libraries/jquery) - 20min
  - Watch: [Algo: Two Sum](https://www.youtube.com/watch?v=0bNNDfhgtCA&t=1s) - 30min
 
