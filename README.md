@@ -3,8 +3,8 @@
 ## Command Line / Interview Questions
 
 ### 1. Main Assignment - EST TIME: 1.5hr
-- [jquery Events](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/events.md)
-- [Random Imager](./random-imager.md)
+- Work through this lecture first: [jquery Events](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/events.md)
+- Then attempt this exercise: [Random Imager](./random-imager.md)
 - Work through the following lectures to finish learning about jquery
 - Be sure to check the issues box in the settings tab so we can leave comments
 - When commpleted submit the code you wrote for homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
