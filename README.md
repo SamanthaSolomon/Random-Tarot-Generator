@@ -4,6 +4,7 @@
 
 ### 1. Main Assignment - EST TIME: 1.5hr
 
+- [Random Imager](./random-imager.md)
 - Work through the following lectures to finish learning about jquery
 - [Programatic Dom](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/programmatic_dom.md)
 - [jquery Events](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/events.md)
