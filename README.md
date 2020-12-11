@@ -1,4 +1,4 @@
-# W02D04-HW
+# W02D03-HW
 
 ## Command Line / Interview Questions
 
@@ -17,13 +17,16 @@
  **Bonus**
  - [Programatic Dom](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/programmatic_dom.md)
 
+### 3. Object Oriented Programming Primer- Night 3 (30 minutes)
 
-### 3. ALGO PRACTICE - EST TIME: 20min
+- [ 5 Days of Object Oriented Programming ](https://git.generalassemb.ly/SEIR-1207/5daysofOOP)
+
+### 4. ALGO PRACTICE - EST TIME: 20min
 
 None assigned at this time
 
 
-### 4.  INTERVIEW PRACTICE - EST TIME: 20min
+### 5.  INTERVIEW PRACTICE - EST TIME: 20min
 
 
 - Answer the following interview question: 
