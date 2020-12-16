@@ -3,7 +3,7 @@
 ## Command Line / Interview Questions
 
 ### 1. Main Assignment - EST TIME: 1.5hr
-- Work through this lecture first: [jquery Events](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/events.md)
+- Work through this lecture first: [jquery Events](https://git.generalassemb.ly/SEIR-1207/js-programmatic-dom-and-events)
 - Then attempt this exercise: [Random Imager](./random-imager.md)
 - Work through the following lectures to finish learning about jquery
 - When completed submit your HW link via the HW Submission Form pinned to the classroom channel.
