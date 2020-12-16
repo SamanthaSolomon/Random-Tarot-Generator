@@ -11,7 +11,6 @@
 
 ### 2. Read/Watch The Following (bonus if you have time)- EST TIME: 50min
  - Do: [FreeCodeCamp: Complete the jQuery Section](https://learn.freecodecamp.org/front-end-libraries/jquery) - 20min
- - Watch: [Algo: Two Sum](https://www.youtube.com/watch?v=0bNNDfhgtCA&t=1s) - 30min
  
  **Bonus**
  - [Programatic Dom](https://git.generalassemb.ly/SEIR-831/js-programmatic-dom-and-events/blob/master/instructor_notes/programmatic_dom.md)
