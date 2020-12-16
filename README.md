@@ -19,7 +19,7 @@
 
 - [ 5 Days of Object Oriented Programming ](https://git.generalassemb.ly/SEIR-1207/5daysofOOP)
 
-### 4. ALGO PRACTICE - EST TIME: 20min
+### 4. ALGO PRACTICE - EST TIME: 30min
 
  - Watch: [Algo: Two Sum](https://www.youtube.com/watch?v=0bNNDfhgtCA&t=1s) - 30min
 
