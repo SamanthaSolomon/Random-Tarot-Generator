@@ -21,7 +21,7 @@
 
 ### 4. ALGO PRACTICE - EST TIME: 20min
 
-None assigned at this time
+ - Watch: [Algo: Two Sum](https://www.youtube.com/watch?v=0bNNDfhgtCA&t=1s) - 30min
 
 
 ### 5.  INTERVIEW PRACTICE - EST TIME: 20min
