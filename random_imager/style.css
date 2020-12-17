@@ -1,0 +1,8 @@
+/*  STEP 2 - add class  */
+
+.emptyCard{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    cursor: grab;
+}
