@@ -1,8 +1,26 @@
 /*  STEP 2 - add class  */
 
+*{
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .emptyCard{
     background-color: blueviolet;
+    color: white
+    text-align: center
     height: 100px;
     width: 100px;
     cursor: grab;
+    padding: 40px 10px;
+}
+
+.card {
+    display: block;
+    width: 100px;
+    height: 100px
 }
