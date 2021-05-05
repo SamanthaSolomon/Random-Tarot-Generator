@@ -15,7 +15,15 @@ const cards = [
   'https://www.trustedtarot.com/img/cards/death.png',
   'https://www.trustedtarot.com/img/cards/temperance.png',
   'https://www.trustedtarot.com/img/cards/the-tower.png',
-  'https://www.trustedtarot.com/img/cards/the-moon.png'
+  'https://www.trustedtarot.com/img/cards/the-moon.png',
+  'https://www.trustedtarot.com/img/cards/the-chariot.png',
+  'https://www.trustedtarot.com/img/cards/the-world.png',
+  'https://www.trustedtarot.com/img/cards/the-high-priestess.png',
+  'https://www.trustedtarot.com/img/cards/judgement.png',
+  'https://www.trustedtarot.com/img/cards/eight-of-swords.png',
+  'https://www.trustedtarot.com/img/cards/the-tower.png',
+  'https://www.trustedtarot.com/img/cards/the-moon.png',
+  'https://www.trustedtarot.com/img/cards/strength.png'
 ]
 const randomCard = () => {
   const index = Math.floor(Math.random() * cards.length)
@@ -55,7 +63,7 @@ $div.on("click", (event) => {
 //   }
 
 
-// //TRIED MY BEST BY BREAKING DOWN THIS PROCESS. I NEVER GOT THE DIV TO SHOW UP ON LIVE SERVER, WHICH MADE THIS REALLY HARD. THIS MORNING I THINK MAYBE MAKING ALL THE CARDS LIS WOULD HAVE BEEN A BETTER APPROACH.
+
 
 
 
