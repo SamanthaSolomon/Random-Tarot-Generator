@@ -23,7 +23,10 @@ const cards = [
   'https://www.trustedtarot.com/img/cards/eight-of-swords.png',
   'https://www.trustedtarot.com/img/cards/the-tower.png',
   'https://www.trustedtarot.com/img/cards/the-moon.png',
-  'https://www.trustedtarot.com/img/cards/strength.png'
+  'https://www.trustedtarot.com/img/cards/strength.png',
+  'https://www.trustedtarot.com/img/cards/the-lovers.png',
+  'https://www.trustedtarot.com/images/cards/00.png',
+  'https://www.trustedtarot.com/img/cards/the-star.png'
 ]
 const randomCard = () => {
   const index = Math.floor(Math.random() * cards.length)
