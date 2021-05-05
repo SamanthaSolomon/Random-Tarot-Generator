@@ -1,8 +1,4 @@
-/*  STEP 2 - add class  */
-
-*{
-    box-sizing: border-box;
-}
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
 
 body {
     display: flex;
@@ -10,17 +6,18 @@ body {
 }
 
 .emptyCard{
-    background-color: blueviolet;
-    color: white
-    text-align: center
-    height: 100px;
-    width: 100px;
+    color: black;
+    border: 15px solid black;
+    text-align: center;
+    font-family: 'Germania One', cursive;
+    font-size: 4rem;
     cursor: grab;
-    padding: 40px 10px;
+    margin:2%;
+    padding: 50px 10px 0px 10px;
+    height: 400px;
+    width: 225px;
 }
 
 .card {
     display: block;
-    width: 100px;
-    height: 100px
 }

@@ -1,4 +1,3 @@
-////////////// STEP 1 - make div w/ text  ///////////////
 
 const cards = [
   'https://www.trustedtarot.com/img/cards/the-fool.png',
@@ -24,7 +23,7 @@ const randomCard = () => {
   return cards[index]
 }
 
-const $div = $("<div class= 'emptyCard'> Add Random Image </div>")
+const $div = $("<div class= 'emptyCard'> Random Tarot Me! </div>")
 
 const $body = $('body')
 
